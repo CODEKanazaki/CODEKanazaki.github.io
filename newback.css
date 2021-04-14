@@ -1,0 +1,45 @@
+.bg{
+    background-image:url("b82f28a7e9c8fcb3868d3d94652c107c.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.edit{
+    padding: 13px;
+    background-color: red;
+    color: #f5f7fa;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 150px;
+    border: gray 3px solid;
+    font-size: 1.1em;
+    margin: 400px 0px 10px 130px;
+}
+.demo-table {
+    background-color: white;
+      background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    opacity: 1;
+    width: 400px;
+    height: 600px;
+    margin:100px 300px 75px 800px;
+    
+   
+}
+.table{
+    margin: -400px 50px 50px 100px;
+    
+}
+.table1{
+    color:red;
+}
+.logout{
+    padding: 13px;
+    background-color: red;
+    color: #f5f7fa;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 150px;
+    border: gray 3px solid;
+    font-size: 1.1em;
+    margin: 600px 0px 10px 130px;
+}
